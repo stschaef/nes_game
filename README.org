@@ -1,0 +1,9 @@
+#+title: Develop a Game for an NES
+
+* Setup
+[[https://www.nesdev.org/wiki/Programming_guide][This link]] seems to be a good place to start.
+
+In particular, I installed ~cc65~ with Homebrew and I am using ~fceux~ as an emulator. Still need to find some nice Emacs syntax highlighting for 6502 assembly.
+
+* TODO Get a single white line written to the screen
+* TODO Set up some concrete goals and put them on git
